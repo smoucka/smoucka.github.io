@@ -1,5 +1,5 @@
 ### Scott
 ---
 ### Personal Projects
-> #### [Kitchen Window](scomou.com/kitchen-window)
+> #### [Kitchen Window](http://scomou.com/kitchen-window)
 > A compilation of posts from NPR's defunct weekly cooking blog, Kitchen Window, displayed by week published.
