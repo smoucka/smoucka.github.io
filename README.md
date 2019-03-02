@@ -1,2 +1,2 @@
-[scomou.org](https://scomou.org/)
+[scomou.com](https://scomou.com/)
 =================
